@@ -1,0 +1,5 @@
+node_modules
+.next
+
+# Package Manager
+package-lock.json
