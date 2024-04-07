@@ -1,4 +1,4 @@
-This is a [++Next.js++](https://nextjs.org/) project bootstrapped with [++`create-next-app`++](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [++http://localhost:3000++](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Usage
 
@@ -22,4 +22,4 @@ Open [++http://localhost:3000++](http://localhost:3000) with your browser to see
 
 - 若沒有資料會返回 User Not Found
 
-- 點擊右上角圖示可 Toggle Dark/Light Mode
+- 點擊右上角圖示可切換深色模式
